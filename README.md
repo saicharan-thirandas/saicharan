@@ -44,6 +44,4 @@ Hi there! I'm **Saicharan Thirandas**, a Master of Science student in Computer E
 
 - 💼 [LinkedIn: Saicharan Thirandas](https://www.linkedin.com/in/saicharanthirandas)
 - 📧 Email: thirandas.sa@northeastern.edu
-- 📱 Mobile: +1 (857) 334-2956
 
-=
