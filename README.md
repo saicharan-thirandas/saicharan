@@ -7,7 +7,7 @@ Hi there! I'm **Saicharan Thirandas**, a Master of Science student in Computer E
 ## About Me
 
 - 🎓 **Education**: 
-  - ![Northeastern](https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Northeastern_University_seal.svg/1200px-Northeastern_University_seal.svg.png) **Master of Science in Computer Engineering**, **Northeastern University**, Boston (Sept 2022 - Dec 2024)
+  - ![Northeastern]() **Master of Science in Computer Engineering**, **Northeastern University**, Boston (Sept 2022 - Dec 2024)
     - Concentration: Computer Vision, Machine Learning, and Algorithms
     - GPA: 4.0/4.0
   - ![IIT Guwahati](https://upload.wikimedia.org/wikipedia/en/thumb/5/51/IIT_Guwahati_Logo.svg/1200px-IIT_Guwahati_Logo.svg.png) **Bachelor of Technology in Electronics & Communication Engineering**, **Indian Institute of Technology (IIT)**, Guwahati (July 2013 - May 2017)
@@ -45,4 +45,4 @@ Hi there! I'm **Saicharan Thirandas**, a Master of Science student in Computer E
 - 📧 Email: thirandas.sa@northeastern.edu
 - 📱 Mobile: +1 (857) 334-2956
 
-Thanks for visiting my GitHub profile! Feel free to explore my repositories or reach out if you’d like to collaborate on exciting projects.
+=
