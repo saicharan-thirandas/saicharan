@@ -21,10 +21,11 @@ Hi there! I'm **Saicharan Thirandas**, a Master of Science student in Computer E
   - **Engineer - R&D (Software Engineering & Data Science)**, NextEducation, Hyderabad (Jun 2017 - Dec 2019)
 
 - 📚 **Recent Projects**:
-  - **Energy and Performance-Aware Task Scheduling** in Mobile Cloud Computing environments (C++).
   - **Autonomous Disaster Response & Reconnaissance** using TurtleBot 3 and ROS.
   - **Bayesian Hyper-parameter Optimization for Vehicle Detection in LIDAR Point-Cloud Data**.
   - **Situation-Aware Object Tracking in Real-Time** using OpenCV in C++.
+  - **Energy and Performance-Aware Task Scheduling** in Mobile Cloud Computing environments (C++).
+
 
 ## Skills
 
