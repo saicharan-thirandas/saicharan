@@ -2,15 +2,16 @@
 
 # Welcome to Saicharan Thirandas' GitHub 👋
 
-Hi there! I'm **Saicharan Thirandas**, a Master of Science student in Computer Engineering at Northeastern University, Boston, specializing in **Computer Vision**, **Machine Learning**, and **Algorithms**. I'm passionate about building intelligent systems and working with large-scale datasets to solve challenging problems.
+Hi there! I'm **Saicharan Thirandas**, a Master of Science student in Computer Engineering at Northeastern University, Boston, specializing in **Computer Vision**, **Machine Learning**, and **Algorithms**. I am an engineer with over 6+ years of experience building, integrating and deploying computer vision and machine learning models as impactful product features. Throughout this journey, I’ve been challenged to develop strong software design and development skills to build software systems to gather training data, enable seamless ML real-time deployment for end users, and synthetic data generation techniques.
+
 
 ## About Me
 
 - 🎓 **Education**: 
-  - Master of Science in Computer Engineering, **Northeastern University**, Boston (Sept 2022 - Dec 2024)
+  - MS in ECE, **Northeastern University**, Boston (Sept 2022 - Dec 2024)
     - Concentration: Computer Vision, Machine Learning, and Algorithms
     - GPA: 4.0/4.0
-  - Bachelor of Technology in Electronics & Communication Engineering, **Indian Institute of Technology (IIT)**, Guwahati (July 2013 - May 2017)
+  - BTech in ECE, **Indian Institute of Technology (IIT)**, Guwahati (July 2013 - May 2017)
     - Courses: Computer Vision, Image Processing, Advanced Topics in ML, Digital Signal Processing
 
 - 💼 **Experience**:
